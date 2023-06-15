@@ -1,0 +1,4 @@
+interface Shape {
+    color: string;
+}
+

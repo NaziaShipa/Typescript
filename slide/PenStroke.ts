@@ -1,0 +1,5 @@
+interface PenStroke {
+    penWidth: number;
+}
+
+
